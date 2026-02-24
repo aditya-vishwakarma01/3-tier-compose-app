@@ -349,17 +349,6 @@ Label:
 * Volume mount
 * Network name
 
----
-
-# 🔥 If You Want Next Level
-
-We can now:
-
-1. Upgrade this to EC2 deployment project
-2. Add Nginx Reverse Proxy with SSL
-3. Add Terraform + Ansible provisioning
-4. Convert this into Kubernetes YAML
-5. Turn this into resume-ready project description
 
 ---
 
